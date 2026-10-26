@@ -140,9 +140,12 @@ PERSONNEL & TRAINING                     HAZARDOUS MATERIALS & FLUIDS
 | **Total Operating Expenses & Scrap Purchases**| **€530,000** | **€880,000** | **€1,150,000** | **€1,380,000** | **€1,510,000** |
 | - Raw Material Scrap Purchases (Public/Corporate)| €400,000 | €670,000 | €880,000 | €1,050,000 | €1,150,000 |
 
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
+
 
 | - Local Personnel Payroll (10 Staff + Taxes)| €75,000 | €110,000 | €125,000 | €140,000 | €150,000 |
 | - Logistics, Trucking & Power Utilities | €35,000 | €65,000 | €85,000 | €100,000 | €110,000 |
 | - Environmental Audits, Maintenance & Local Taxes| €20,000 | €35,000 | €60,000 | €90,000 | €100,000 |
 | **Annual Net Profit (Pre-tax)** | **€120,000** | **€220,000** | **€300,000** | **€370,000** | **€440,000** |
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
+
